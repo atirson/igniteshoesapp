@@ -28,6 +28,12 @@
           <string>com.stark-luson.igniteshoes-expo</string>
         </array>
       </dict>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>exp+igniteshoes-expo</string>
+        </array>
+      </dict>
     </array>
     <key>CFBundleVersion</key>
     <string>1</string>
